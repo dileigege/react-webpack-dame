@@ -1,0 +1,11 @@
+@import '../common/bater.css';
+html{
+    background-color: #eee;
+}
+.box{
+    width: 150px;
+    height: 150px;
+    background-color: #9999;
+    color: #fff;
+    transform: rotate(60deg);
+}
